@@ -1,0 +1,10 @@
+body {
+	background-color: : #EEE;
+}
+
+.BOX {
+	position:absolute;
+	left:50%;
+
+	margin-left: -150px
+}
