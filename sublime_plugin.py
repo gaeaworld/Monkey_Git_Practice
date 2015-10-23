@@ -45,7 +45,7 @@ def unload_plugin(fname):
         unload_module(m)
 
 def reload_plugin(fname):
-    print "Reloading plugin", fname
+    print "Reloading plugin123456789", fname
     path = os.path.dirname(fname)
 
     # Change the current directory to that of the module. It's not safe to just
