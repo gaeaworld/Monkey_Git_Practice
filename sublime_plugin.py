@@ -35,7 +35,7 @@ def unload_module(module):
                     pass
 
 def unload_plugin(fname):
-    print "Unloading plugin", fname
+    print "Unloading plugin123545", fname
 
     modulename, ext = os.path.splitext(os.path.basename(fname))
 
