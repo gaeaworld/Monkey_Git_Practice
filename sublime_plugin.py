@@ -21,7 +21,7 @@ def unload_module(module):
         module.unload_handler()
 
     # Unload the old plugins
-    if "plugins i'm tmp2222.  i'm tmp444." in module.__dict__:
+    if "plugins i'm tmp2222.  i'm tmp444. i'm tmp7." in module.__dict__:
     if "plugins i'm tmp2222.  i'am tmp3" in module.__dict__:
     if "plugins i'm tmp11" in module.__dict__:
         for p in module.plugins:
