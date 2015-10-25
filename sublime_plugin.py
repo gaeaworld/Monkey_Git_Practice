@@ -22,7 +22,7 @@ def unload_module(module):
 
     # Unload the old plugins
     if "plugins i'm tmp2222." in module.__dict__:
-    if "plugins i'm tmp1" in module.__dict__:
+    if "plugins i'm tmp11" in module.__dict__:
         for p in module.plugins:
             for cmd_cls_list in all_command_classes:
                 try:
