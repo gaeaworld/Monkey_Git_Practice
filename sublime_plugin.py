@@ -21,7 +21,7 @@ def unload_module(module):
         module.unload_handler()
 
     # Unload the old plugins
-    if "plugins" in module.__dict__:
+    if "plugins i'm tmp2222." in module.__dict__:
         for p in module.plugins:
             for cmd_cls_list in all_command_classes:
                 try:
