@@ -1,3 +1,4 @@
+add 2016/01/17 10:59 time
 #!/bin/sh
 
 echo "hi, welcome to Hades gen email info tool"
