@@ -1,3 +1,4 @@
+add 2016/01/17 10:55 time
 #!/usr/bin/python
 # coding=UTF-8
 #http://tech.marsw.tw/blog/2014/09/03/getting-started-with-python-in-ten-minute
