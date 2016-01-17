@@ -1,3 +1,4 @@
+add 2016, 01, 17 10:33 time
 #!/bin/sh
 
 project_path="/home/pi/Hades_project"
